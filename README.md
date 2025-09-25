@@ -25,7 +25,7 @@ Project Structure
 Library-Management-System-Java/ │ ├── src/ │ ├── Book.java → Handles book details (ID, title, author, status) │ ├── User.java → Manages user details and issued books │ ├── Library.java → Core class that connects books and users (issue, return, display) │ └── Main.java → Entry point with menu-driven program for testing │ └── README.md
 
 How to Run
-Clone this repository: git clone https://github.com/your-username/Library-Management-System-Java.git cd Library-Management-System-Java
+Clone this repository: git clone https://github.com/lakshmimule333/Library-Management-System-Java.git cd Library-Management-System-Java
 
 Compile the Java files: javac src/*.java
 
@@ -52,4 +52,4 @@ Exception Handling: Add better error messages for invalid inputs, duplicate IDs,
 Graphical Interface: Replace the console menu with a GUI (Swing/JavaFX) for a modern user experience.
 Integration: Extend the project to connect with external systems (like APIs for eBooks or online catalogues).
 OUTPUT :
-
+<img width="1481" height="742" alt="Image" src="https://github.com/user-attachments/assets/fa127d02-81c7-4279-b226-4d5f96cf0afb" />
